@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body 	{ background-color:#D4D1D1;}
+
+#contener	{ margin-left:auto; width:85%; background-color:#FFF}
+
+#contenu			{ width:80%; height:auto; min-height:1000px; background-color:#FFF; float:left; padding:0 50px 10px 50px; box-shadow:0px 0px 10px #033;}
+
+
+menu 	{ text-align:center; text-decoration:none; width:100%;}
+menu ul { list-style:none; float:left; margin-right:30px;list-style-type:none; list-style:none; }
+menu ul li {float:left;}
+menu ul a {color:#000; text-decoration:none;  text-transform:uppercase; padding:5px; -o-transition: .8s; -ms-transition:.8s; -moz-transition: .8s; -webkit-transition: .8s; transition:all .8s; -o-border-radius:10px; -ms-border-radius:10px; -moz-border-radius:15px; -webkit-border-radius:10px; border-radius:10px; text-shadow:0px 0px 0px #666; display:block;}
+
+
+section				{ text-align:center; width:80%; height:auto; min-height:400px; background-color:#DBD5CC; padding:10px; margin-top:20px; margin-bottom:20px; font-family:Franklin Gothic Book, Verdana, Geneva, sans-serif; float:left;box-shadow: 5px 5px 10px #a2a2a2; -o-border-radius:15px; -ms-border-radius:15px; -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px; padding-top:20px; padding-bottom:30px;}
+
+section #filariane	{float:left; margin:3px 5px 2px 5px; width:1px; height:14px; background-color:#000;}
+section a.filariane	{color:#090; text-decoration:underline; float:left;}
+
+article				{margin-top:20px}
+
+section #hr2		{ background-color:#F00; width:200px; text-align:center; position:center; margin-left:500px;}
+article hr.hr3		{color:#F00; background:#F00; min-height: 0px; border-left: 0px; border-right: 0px; border-top: 1px solid #F00; border-bottom: 1px solid #900; width:320px; float:left;  margin-top:-1px;}
+.ariane				{ width:1px; height:12px; margin: 3px 5px 2px 5px; color:#000; float:left;}
+#hr2				{background-color:#9CF;}
+
+
+.produit	{ width:200px; background-color:#0C6; float:left; margin-left:20px; border:solid 1px #000; margin-bottom:35px}
+footer 		{ width:100%; float: left;}
+
+aside		{ margin-left:20px; float:left; width:10%;}
+
+form  {text-align:left;}
+form input { margin-left:10px;}
+
+
+table   {border:solid 2px #000;}
+th, td	{border:solid 1px #000; }
+
